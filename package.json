@@ -1,0 +1,11 @@
+{
+  "name": "performance-meter",
+  "version": "0.0.1",
+  "description": "Tiny library for performing performance tests",
+  "main": "index.js",
+  "author": "Adam Suchcicki",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table3": "^0.6.0"
+  }
+}
