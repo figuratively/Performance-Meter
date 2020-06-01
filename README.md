@@ -1,6 +1,18 @@
 # Performance-Meter
 This is a mini tool that can help you with testing JavaScript code performance.
 
+```
+┌──────────────────────────┬────────────────────┐
+│ ID                       │ Time (nanoseconds) │
+├──────────────────────────┼────────────────────┤
+│ spread                   │ 50 789             │
+├──────────────────────────┼────────────────────┤
+│ by array                 │ 3588               │
+├──────────────────────────┼────────────────────┤
+│ by Object.assignProperty │ 7685               │
+└──────────────────────────┴────────────────────┘
+```
+
 ## Installation
 Run ```npm link path/to/cloned/repository```
 
